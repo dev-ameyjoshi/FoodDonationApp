@@ -35,7 +35,7 @@ manner. Waste also has a significant financial impact
 and has an influence on the environment, including
 overall greenhouse gas emissions. This applicationbased project assists in the collection of food from
 contributors and distribution to those in need. This is
-the project's fundamental and key goal
+the project's fundamental and key goal.
 
 
 If you liked the repo then kindly support it by giving it a star ⭐!
