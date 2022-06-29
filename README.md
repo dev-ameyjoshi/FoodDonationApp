@@ -14,11 +14,11 @@ https://user-images.githubusercontent.com/49322171/130791947-00e8a35c-c2b7-498a-
 - [x] Animations
 - [x] Multi-threading (Concurrency)
 - [x] Chat UI (Working: Next Implementation)
-- [x] Google Map integration 
+
 
 
 ## Problem
-One day, I came across a random thought in this random wedding invitation. When seeing all the elite people leaving their tables full of leftover foods, 
+One day, we came across a random thought in this random wedding invitation. When seeing all the elite people leaving their tables full of leftover foods, 
 and meanwhile the beggars right outside the halls waited to get them. That's where the thought of developing an application for the leftover food 
 (Web or Android- IMPLEMENTED: Android) came.
 The number of reasons it can be used:
@@ -28,7 +28,7 @@ The number of reasons it can be used:
 4. Food wastage management/save.
 5. Covering SDG: <a href="https://en.wikipedia.org/wiki/Sustainable_Development_Goal_2">Zero Hunger</a>
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-FatimaYousif-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/FatimaYousif)
+
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
